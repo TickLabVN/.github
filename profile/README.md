@@ -1,6 +1,6 @@
 ### 🇻🇳 Who are we ?
 
-![Members](../assets/lab_member.jpg)
+![Members](./lab_member.jpg)
 
 **TickLab** is a career and resource development organization.
 We are seeking and fostering relevant students who have the potential to become pioneers in the construction of the country.
