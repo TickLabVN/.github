@@ -1,5 +1,5 @@
 ### 🇻🇳 Who are we ?
-
+<!-- Test trigger github bot in Discord -->
 ![Members](https://raw.githubusercontent.com/TickLabVN/.github/master/profile/lab_member.jpg)
 
 **TickLab** is a career and resource development organization.
